@@ -12,3 +12,7 @@ discord_images/
 
 # Pyhton local development ambient
 .venv/
+
+# Personal uses
+organizer.py
+wallpapers/
